@@ -246,3 +246,10 @@ Load with:
 or load the elixir environment file with:
    source /home/d3v/.kiex/elixirs/elixir-1.19-latest-28.env
 ```
+# Resource mods
+```bash
+# elixir
+source /home/d3v/.kerl/erl_27_3_4/activate
+export PATH=$PATH:/home/d3v/.kiex/bin
+source /home/d3v/.kiex/elixirs/elixir-1.17.3-27.env
+```

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2035c3b3395ad5d1",
+        "id": "39e2ebfe059c9d7f",
         "type": "tabs",
         "children": [
           {
-            "id": "9fe7f1f652363ab0",
+            "id": "81b3e839e4684084",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/151. Reverse Words in a String.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "151. Reverse Words in a String"
+              "title": "New tab"
             }
           }
         ]
@@ -166,25 +162,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fe7f1f652363ab0",
+  "active": "52b8494986d4c6a0",
   "lastOpenFiles": [
+    "Setup/VSCode.md",
+    "Important Programs/Leap.md",
+    "LeetCode/7. Reverse Integer.md",
+    "Important Programs",
+    "Elixir Core/8..md",
+    "Elixir Core/7. Pattern Matching.md",
+    "Elixir Core/5. Control Flow.md",
+    "Elixir Core/4. Anonymous Functions.md",
+    "Elixir Core/6. Collection Types.md",
+    "Setup/Phoenix.md",
+    "Setup/Postgres.md",
+    "Phoenix.md",
+    "Phoenix Framework",
+    "Elixir Core/3. Numbers.md",
+    "Setup/Kerl & Kiex.md",
+    "Untitled.canvas",
+    "Elixir Core/1. Basics.md",
+    "Elixir Core/2. Booleans.md",
+    "LeetCode/151. Reverse Words in a String.md",
     "LeetCode/x. Design facts.md",
     "Enum/Enum.reverse.md",
-    "LeetCode/151. Reverse Words in a String.md",
     "Enum",
     "LeetCode/2. Add Two Numbers.md",
     "LeetCode/image_assets/Pasted image 20250617073737.png",
     "LeetCode/1. Two Sum.md",
     "Common Structs/ListNode.md",
     "LeetCode/image_assets/Pasted image 20250616200100.png",
-    "Elixir Core/4. Anonymous Functions.md",
-    "Elixir Core/1. Basics.md",
-    "Elixir Core/3. Numbers.md",
-    "Elixir Core/2. Booleans.md",
     "Common Structs",
     "Language Overivew/Elixir Features.md",
-    "Setup/Kerl & Kiex.md",
-    "Setup/VSCode.md",
     "LeetCode/image_assets/Pasted image 20250615224604.png",
     "LeetCode/image_assets",
     "Setup",
@@ -195,9 +203,6 @@
     "Exercism/Learning Exercises/2. Lasagna - Basics.md",
     "Elixir Core",
     "Language Overview/BEAM.md",
-    "Language Overview",
-    "Exercism/Learning Exercises",
-    "Welcome.md",
-    "Intro. & syntax/1. Language Introduction.md"
+    "Welcome.md"
   ]
 }
